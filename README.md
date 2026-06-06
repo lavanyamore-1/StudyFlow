@@ -112,7 +112,7 @@ Contributions, issues, and feature requests are welcome. Feel free to fork the r
 
 ---
 
-**B.Tech Information Technology Student**
+**B.E Information Technology Student**
 
 * Java
 * Data Structures & Algorithms
